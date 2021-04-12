@@ -1,0 +1,13 @@
+name: fore-casting
+title: fore-casting
+username:
+account: seaport
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 433120
+bundleId: 1579917
+url: https://seaport.shinyapps.io/fore-casting/
+when: 1536651779.19191
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: daily data.csv|monthly data.csv|server.R|time series monthly data.csv|train (1).csv|ui.R
